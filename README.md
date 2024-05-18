@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **haemiii/haemiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4 align="center">Tech Stack</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-DD6633?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-77C77A?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+</p>
+
+
+
