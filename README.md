@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <h2 align="left">Tech Stack</h2>
+  <h3 align="center">Tech Stack</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Java-DD6633?style=for-the-badge&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-77C77A?style=for-the-badge&logo=Spring&logoColor=white"><br>
