@@ -13,22 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <h2 align="left">Tech Stack</h2>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Java-DD6633?style=for-the-badge&logo=Java&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-77C77A?style=for-the-badge&logo=Spring&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black">
+  </p>
+</div>
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cumulus)](https://solved.ac/cumulus/)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=haemiii&show_icons=true&theme=radical)
-
-
-***
-<h2 align="left">Tech Stack</h2>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-DD6633?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-77C77A?style=for-the-badge&logo=Spring&logoColor=white"></br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white">
-</p>
-
-
-
+----
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cumulus" alt="Solved.ac Profile" >
+  <img src="https://github-readme-stats.vercel.app/api?username=haemiii&show_icons=true&theme=radical" alt="GitHub stats">
+</div>
